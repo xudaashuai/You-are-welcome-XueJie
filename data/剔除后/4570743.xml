@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm attribution="http://www.openstreetmap.org/copyright" copyright="OpenStreetMap and contributors" generator="OpenStreetMap server" license="http://opendatacommons.org/licenses/odbl/1-0/" version="0.6">
+ <way changeset="251298" id="4570743" timestamp="2007-08-25T06:24:09Z" uid="7523" user="inas" version="1" visible="true">
+  <nd ref="28836937"/>
+  <nd ref="36048502"/>
+  <nd ref="28836934"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="The Grand Parade"/>
+  <tag k="source" v="survey"/>
+ </way>
+ <way changeset="3787654" id="4570743" timestamp="2010-02-04T01:32:48Z" uid="1679" user="andrewpmk" version="2" visible="true">
+  <nd ref="28836937"/>
+  <nd ref="36048502"/>
+  <nd ref="28836934"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="The Grand Parade"/>
+  <tag k="note" v="FIXME"/>
+  <tag k="source" v="survey"/>
+ </way>
+ <way changeset="3809198" id="4570743" timestamp="2010-02-06T21:28:15Z" uid="20949" user="Ebenezer" version="3" visible="true">
+  <nd ref="631930823"/>
+  <nd ref="28836934"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="The Grand Parade"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="survey"/>
+ </way>
+</osm>

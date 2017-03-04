@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <way id="177612810" changeset="12840318" timestamp="2012-08-24T03:44:14Z" version="1" visible="true" user="GeoSUN" uid="414582">
+    <nd ref="1880327732"/>
+    <nd ref="1880341169"/>
+    <nd ref="1880341179"/>
+    <nd ref="1880341170"/>
+    <nd ref="1880341172"/>
+    <nd ref="1880341165"/>
+    <nd ref="1880341152"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="广货巷"/>
+  </way>
+</osm>
